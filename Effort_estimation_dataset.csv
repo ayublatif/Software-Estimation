@@ -1,0 +1,141 @@
+Teammembers,Experience,Size,Complexity,Priority,Noftasks,PL,developmenttype,platform,externalhardware,relatedtechnologies,dbms,effort
+3,24,3,2,1,2,C#,M,Android Studio,0,0,Unity,3
+3,24,4,4,2,4,C#,M,Android Studio,0,0,Unity,8
+3,24,1,1,3,4,C#,M,Android Studio,0,0,Unity,1
+3,24,4,4,4,3,C#,M,Android Studio,0,0,Unity,5
+3,24,3,3,5,4,C#,M,Unity,1,AR,Vuforia,3
+3,24,1,1,6,4,C#,M,Unity,1,AR,Vuforia,1
+3,24,1,1,7,4,C#,M,Unity,1,AR,Vuforia,1
+3,6,3,2,1,3,Java,M,Android Studio,0,0,Firebase,3
+3,6,3,2,2,2,Java,M,Android Studio,0,0,Firebase,2
+3,6,3,3,3,5,Java,M,Android Studio,0,0,Firebase,3
+3,6,4,4,4,5,Java,M,Android Studio,0,Location,Firebase,5
+3,6,2,1,5,1,Java,M,Android Studio,0,0,Firebase,1
+3,6,2,3,6,2,Java,M,Android Studio,0,Location,Firebase,2
+3,6,3,3,7,2,Java,M,Android Studio,0,0,Firebase,3
+3,6,3,2,8,3,Java,M,Android Studio,0,Location,Firebase,2
+3,6,2,2,9,3,Java,M,Android Studio,0,0,Firebase,3
+2,"[24,36]",2,2,1,2,C#,M,Android Studio,0,AR,none,2
+2,"[24,36]",2,2,2,2,C#,M,Android Studio,0,AR,none,2
+2,"[24,36]",3,3,3,2,C#,M,Android Studio,0,AR,Vuforia ,3
+2,"[24,36]",4,4,4,2,C#,M,Android Studio,0,AR,none,5
+2,"[24,36]",4,3,4,2,C#,M,Android Studio,0,AR,none,3
+2,"[24,36]",4,3,6,2,C#,M,Android Studio,0,AR,none,3
+2,"[24,36]",5,5,7,2,C#,M,Android Studio,0,AR,none,8
+2,"[24,36]",3,3,8,2,C#,M,Android Studio,0,AR,none,3
+2,"[24,36]",3,3,9,2,C#,M,Android Studio,0,AR,none,3
+2,"[24,36]",3,2,10,2,C#,M,Android Studio,0,AR,none,3
+2,1,4,3,1,2,Swift,M,IOS,0, Voice recognition,none,8
+2,1,5,5,2,2,C#,M,IOS,0,AR,Placenote,21
+2,1,5,4,3,2,C#,M,IOS,0,AR,Placenote,21
+2,1,5,5,4,1,C#,M,IOS,0,Voice recognition,none,21
+3,24,1,2,1,4,Java,M,Android Studio,0,0,Firebase,2
+3,24,1,1,2,4,Java,M,Android Studio,0,0,Firebase,1
+3,24,3,3,3,4,Java,M,Android Studio,0,0,Firebase,3
+3,24,1,2,4,4,Java,M,Android Studio,0,0,Firebase,2
+3,24,5,4,5,4,Java,M,Android Studio,1,Location,Firebase,5
+3,24,3,3,6,4,Java,M,Android Studio,0,0,Firebase,3
+3,24,1,1,7,4,Java,M,Android Studio,0,0,Firebase,1
+3,24,2,2,8,4,Java,M,Android Studio,0,0,none,2
+3,24,4,4,9,4,Java,M,Android Studio,0,Location,Firebase,5
+3,24,1,1,10,4,Java,M,Android Studio,0,0,Firebase,1
+2,"[24,36]",2,2,1,4,Java,M,Android Studio,1,AI,Firebase,2
+2,"[24,36]",2,2,2,4,Java,M,Android Studio,0,AI,Firebase,2
+2,"[24,36]",2,2,3,4,Java,M,Android Studio,0,AI,Firebase,2
+2,"[24,36]",4,3,4,4,Java,M,Android Studio,1,AI,Firebase,5
+2,"[24,36]",2,2,5,4,Java,M,Android Studio,0,AI,Firebase,2
+2,"[24,36]",2,2,6,4,Java,M,Android Studio,0,AI,Firebase,2
+2,"[24,36]",2,2,7,4,Java,M,Android Studio,0,AI,Firebase,2
+3,"[12,24]",2,2,1,3,Java,M,Android Studio,0,0,Firebase,3
+3,"[12,24]",2,1,2,3,Java,M,Android Studio,0,0,Firebase,2
+3,"[12,24]",4,4,3,3,Java,M,Android Studio,0,0,Firebase,5
+3,"[12,24]",3,4,4,3,Java,M,Android Studio,0,0,Firebase,5
+3,"[12,24]",3,3,5,3,Java,M,Android Studio,0,0,Firebase,3
+3,"[12,24]",5,5,6,3,Java,M,Android Studio,1,IoT,Firebase,5
+3,1 to 2,4,4,7,3,Java,M,Android Studio,0,0,Firebase,5
+3,"[12,24]",4,5,8,4,Python,"Hardware 
+development",Python,1,IoT,Firebase,8
+3,"[12,24]",4,5,9,3,Python,"Hardware 
+development",Python,1,IoT,Firebase,8
+3,"[12,24]",4,5,10,3,Python,"Hardware 
+development",Python,1,IoT,Firebase,8
+3,"[12,24]",3,3,11,3,Java,"Hardware 
+development",Android Studio,0,0,Firebase,3
+4,6,3,3,1,3,C#,M,IOS,0,0,Firebase,3
+4,6,3,3,2,2,Java,M,.net,0,0,Firebase,3
+4,6,3,3,3,3,C#,M,.net,0,0,Firebase,3
+4,6,3,3,4,2,C#,M,.net,1,IoT,Firebase,3
+4,12,4,3,10,5,Java,M,Android Studio,0,0,Firebase,8
+4,12,1,1,9,2,Java,M,Android Studio,0,0,none,1
+4,12,2,3,9,5,Java,M,Android Studio,0,Location,SQL,3
+4,12,1,1,9,2,Java,M,Android Studio,0,0,none,1
+4,12,3,3,9,5,Java,M,Android Studio,0,0,SQL,5
+4,12,5,5,9,5,Java,M,Android Studio,1,0,SQL,8
+4,12,2,2,8,3,Java,M,Android Studio,0,Location,SQL,3
+4,12,5,4,7,5,Java,M,Android Studio,1,0,none,8
+3,6,1,2,1,5,Java,M,Android Studio,0,0,SQL,2
+3,6,2,2,2,5,Java,M,Android Studio,0,0,SQL,2
+3,6,1,1,3,5,Java,web,Android Studio,0,0,SQL,1
+3,6,1,1,4,5,Java,M,Android Studio,0,0,SQL,1
+3,6,1,1,5,5,Java,M,Android Studio,0,0,SQL,2
+3,6,2,2,6,5,Java,M,Android Studio,0,0,SQL,3
+3,6,3,3,7,5,Java,M,Android Studio,0,0,SQL,3
+3,6,2,2,9,5,Java,M,Android Studio,0,0,SQL,2
+3,6,3,3,10,5,Java,M,Android Studio,0,0,SQL,3
+3,6,4,3,8,5,Java,M,Android Studio,0,0,SQL,3
+3,6,4,3,11,5,Java,M,Android Studio,0,0,SQL,3
+3,6,2,2,12,5,Java,M,Android Studio,0,0,SQL,3
+3,12,3,2,1,4,Java,M,Android Studio,0,Location,Firebase,3
+3,12,3,2,2,4,Java,M,Android Studio,0,0,Firebase,2
+3,12,4,4,3,5,Java,M,Android Studio,0,Location,Firebase,5
+3,12,4,5,4,4,Java,M,Android Studio,0,Location,Firebase,5
+3,12,3,3,5,3,Java,M,Android Studio,0,Location,Firebase,2
+3,12,5,5,6,5,Java,M,Android Studio,1, Location,Firebase,5
+3,12,3,3,7,4,Java,M,Android Studio,1,Location,Firebase,2
+3,12,2,2,8,4,Java,M,Android Studio,0,Location,Firebase,2
+3,12,1,1,9,3,Java,M,Android Studio,0,0,Firebase,1
+3,12,3,3,10,3,Java,M,Android Studio,0,0,Firebase,2
+3,12,1,1,11,3,Java,M,Android Studio,0,Location,Firebase,3
+3,12,1,1,12,3,Java,M,Android Studio,0,0,Firebase,1
+3,12,1,1,13,3,Java,M,Android Studio,0,0,Firebase,1
+3,6,1,1,1,3,Java,M,Android Studio,0,0,SQL,1
+3,6,1,1,1,2,Java,M,Android Studio,0,0,SQL,1
+3,6,2,2,2,2,Java,M,Android Studio,0,0,SQL,2
+3,6,4,3,3,3,Java,M,Android Studio,0,0,SQL,3
+3,6,2,2,3,2,Java,M,Android Studio,0,0,SQL,2
+3,6,2,2,3,3,Java,M,Android Studio,0,0,SQL,3
+3,6,4,4,1,3,Java,M,Android Studio,0,0,SQL,5
+3,6,1,1,3,3,Java,M,Android Studio,0,0,SQL,1
+3,6,3,4,1,3,Java,M,Android Studio,0,0,SQL,3
+3,6,3,4,1,2,Java,M,Android Studio,0,LBT,SQL,5
+3,6,4,4,1,3,Java,M,Android Studio,0,LBT,SQL,8
+3,6,1,1,3,3,Java,M,Android Studio,0,0,SQL,1
+3,12,3,1,1,3,html,M,Android Studio,0,0,SQL,3
+3,12,3,2,2,3,html,M,Android Studio,0,0,SQL,3
+3,12,4,3,3,1,html,M,Android Studio,0,Location,SQL,5
+3,12,4,3,4,1,html,M,Android Studio,0,0,SQL,5
+3,12,3,3,5,1,html,M,Android Studio,0,0,SQL,3
+3,12,3,3,6,1,html,M,Android Studio,0,0,SQL,3
+3,12,3,3,7,2,html,M,Android Studio,0,0,SQL,3
+3,12,2,2,8,1,html,M,Android Studio,0,0,SQL,2
+3,12,2,2,9,1,html,M,Android Studio,0,0,SQL,2
+3,"[12,24]",3,2,1,3,C#,M,Android Studio,0,AR,Vuforia,3
+3,"[12,24]",3,2,2,3,C#,M,Android Studio,0,AR,Vuforia,2
+3,"[12,24]",2,1,3,2,C#,M,Android Studio,0,AR,Vuforia,2
+3,"[12,24]",3,2,4,3,C#,M,Android Studio,0,AR,Vuforia,3
+3,"[12,24]",4,4,5,5,C#,M,Android Studio,0,AR,Vuforia,5
+3,"[12,24]",1,1,6,2,C#,M,Android Studio,0,AR,Vuforia,1
+3,"[12,24]",3,2,7,3,C#,M,Android Studio,0,AR,Vuforia,2
+3,6,5,3,1,5,Python,Deep Learning Model,Google Colab ,1,Computer vision,none,13
+3,6,3,2,2,5,Java,database,Android Studio,0,0,Firebase,2
+3,6,3,2,4,1,Java,M,Android Studio,0,Gamification ,none,3
+3,6,4,4,3,7,Java,M,Android Studio,1,Location,Firebase,5
+2,24,4,1,1,5,Java,M,Android Studio,0,Computer vision,Firebase,5
+2,24,1,1,4,5,Java,M,Android Studio,0,0,none,1
+2,24,4,3,2,3,Java,M,.net,0,0,Firebase,5
+2,24,1,1,3,3,Java,M,Android Studio,0,0,Firebase,3
+4,12,5,5,1,3,Java,M,Android Studio,1,Computer vision,SQL,13
+4,12,3,3,5,3,Java,M,Android Studio,0,0,SQL,3
+4,12,1,2,2,3,Java,M,Android Studio,0,0,SQL,2
+4,12,5,5,4,3,Java,M,Android Studio,0,Location,Firebase,5
+4,12,1,1,3,3,Java,M,Android Studio,0,0,SQL,1
